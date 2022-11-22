@@ -3,4 +3,4 @@
 
 ` python <filename> `
 ### เวลาออกจากตัว chatbot ให้พิมคำว่า **quit**
-### สามารถเพิ่มข้อความได้ที่ในส่วนของ response
+### สามารถเพิ่มข้อความได้ที่ในส่วนของ response ในไฟล์ response.py ในโฟลเดอร์ components
